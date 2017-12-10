@@ -2,6 +2,8 @@
 
 Here is a summation of all relevant knowledge you should have learned before using the ruleset.
 
+[uMatrix](https://github.com/gorhill/uMatrix) is a great browser extension, point and click matrix to filter net requests according to source, destination and type.
+
 ### FAQs
 
 1. What are principles on enabling third-party elements?

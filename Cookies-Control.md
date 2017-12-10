@@ -11,7 +11,7 @@ Add rule `* * cookie block`, which means to block cookies globally by default. Y
 
 In this case, `google.com google.com cookie block` prevent cookie-based tracking from Google search but, meanwhile, `google.com accounts.google.com cookie allow` can allow you to login to some Google service.
 
-Such implement can be found in [another branch](https://github.com/Rictusempra/uMatrix-Rules/tree/Strict-Cookie).
+Such implement can be found in [here](https://github.com/uMatrix-Rules/uMatrix-Rules-Site/tree/Strict-Cookies).
 
 ### Reeshoova!
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>

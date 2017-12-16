@@ -2,7 +2,7 @@
 
 Here is a summation of all relevant knowledge you should have learned before using the ruleset.
 
-[uMatrix](https://github.com/gorhill/uMatrix) is a great browser extension, point and click matrix to filter net requests according to source, destination and type.
+[uMatrix](https://github.com/gorhill/uMatrix) is a great browser extension, `point and click matrix to filter net requests according to source, destination and type`.
 
 ## FAQs
 
@@ -24,7 +24,7 @@ Here is a summation of all relevant knowledge you should have learned before usi
 
 ## Gnar gada! - USAGE
 
-1. First, choose a rule level you would prefer, [`domain`](https://github.com/uMatrix-Rules/uMatrix-Rules-Domain) or [`site`](https://github.com/uMatrix-Rules/uMatrix-Rules-Site).  It is recommended to choose the latter. Save the `rules.txt` into any local directory or directly open it in your browser & copy all contents
+1. First, choose a rule level you would prefer, [domain](https://github.com/uMatrix-Rules/uMatrix-Rules-Domain) or [site](https://github.com/uMatrix-Rules/uMatrix-Rules-Site).  It is recommended to choose the latter. Save the `rules.txt` into any local directory or directly open it in your browser & copy all contents
 2. open your uMatrix dashboard
 3. navigate to `My rules` tab
 4. click `Import from file...` and pick the file you just downloaded or click `Edit` and paste them
@@ -33,7 +33,7 @@ Here is a summation of all relevant knowledge you should have learned before usi
 ## Shubbanuffa - BEFORE USING
 
 - I can only ensure most site functions are workable. Use at your own risk.
-- If you are expecting my investigation on any specific site, pls open a [new issue](https://github.com/Rictusempra/uMatrix-Rules/issues/new):
+- If you are expecting my investigation on any specific site, pls open a new issue at [corresponding place](https://github.com/uMatrix-Rules):
     - give a specific URL
     - point out your uMatrix version & broswer version
     - attach your own rules and, if differ from default, your preferences
@@ -56,7 +56,6 @@ Here is a summation of all relevant knowledge you should have learned before usi
 - [Contributing](Contributing.md)
 - [Cookies Control](Cookies-Control.md)
 - [uMatrix Friendly Sites](uMatrix-Friendly-Sites.md)
-- [User Agent Spoofing](User-Agent-Spoofing.md)
 - Third Party Iframe
     - [Google Service](/Google-Services.md)
     - [Video Iframe Examples](/Video-Iframe-Examples.md)

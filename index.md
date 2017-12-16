@@ -52,10 +52,10 @@ Here is a summation of all relevant knowledge you should have learned before usi
 
 ## Ovagarava - T.O.C.
 
-- [Blacklist Mode](Blacklist-Mode.md)
-- [Contributing](Contributing.md)
-- [Cookies Control](Cookies-Control.md)
-- [uMatrix Friendly Sites](uMatrix-Friendly-Sites.md)
+- [Blacklist Mode](/Blacklist-Mode.md)
+- [Contributing](/Contributing.md)
+- [Cookies Control](/Cookies-Control.md)
+- [uMatrix Friendly Sites](/uMatrix-Friendly-Sites.md)
 - Third Party Iframe
     - [Google Service](/Google-Services.md)
     - [Video Iframe Examples](/Video-Iframe-Examples.md)
@@ -63,4 +63,4 @@ Here is a summation of all relevant knowledge you should have learned before usi
 
 ### Reeshoova! - LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
-Except where otherwise noted, all content in this repository is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>
+Except where otherwise noted, all content in this org is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>

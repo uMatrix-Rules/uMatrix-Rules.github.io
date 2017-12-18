@@ -1,4 +1,4 @@
-## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/uMatrix-Rules/#ovagarava)
+## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava)
 
 uMatrix can be used as blacklist mode, aka allow anything despite specify classes of element you black listed.
 

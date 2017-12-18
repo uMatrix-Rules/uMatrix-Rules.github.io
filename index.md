@@ -18,6 +18,13 @@ Here is a summation of all relevant knowledge you should have learned before usi
     - [HTTPS Everywhere](https://www.eff.org/https-everywhere)
     - [Neat URL](http://hugsmile.eu/)
     - [uBlock Origin](https://github.com/gorhill/uBlock)
+
+    Plus, if you re using [Mozilla Firefox](https://www.mozilla.org/firefox/all/), despite that battery API is removed to avoid being tracked, it is also suggested to navigation to `about:preferences#privacy`:
+
+    - at `History` section, select `Never` at `Accept third-party cookies`; check `Clear history when Firefox closes` option whose settings are suggested as at least `Cache`, `Site Preferences` and `Offline Website Data`.
+    - at `Tracking Protection` section, select both `Always`
+    - at `Permissions` section, check `Prevent accessibility services from accessing your browser`.
+    - at `Security` section, **uncheck** `Block dangerous and deceptive content`: this uses Google Safe Browsing API and tracks your everywhere. Use pro anti-virus programs instead if necessary.
 1. How can I donate?
 
     No any will to accept yet.

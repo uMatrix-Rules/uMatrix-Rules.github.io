@@ -44,6 +44,7 @@ Here is a summation of all relevant knowledge you should have learned before usi
     - give a specific URL
     - point out your uMatrix version & broswer version
     - attach your own rules and, if differ from default, your preferences
+    - If you are submitting issue on any site that requires account (cookies), a valid account mailed to the [org email address](lolipopplus@protonmail.com) may be necessary. By doing that you are trusting [org owner](https://github.com/Rictusempra) enough.
 - Here are service inavailablity things that won't be fixed:
     -  from contents blocked by any built-in subscriptions
     - caused by certain preferences outside of rule sets or of uMatrix itself

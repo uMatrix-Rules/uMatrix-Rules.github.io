@@ -86,6 +86,7 @@ Hint: you don't have to copy & paste them. Simply click uMatrix toolbar button a
 - [Blacklist Mode](/Blacklist-Mode.md)
 - [Contributing Guidelines](/Contributing.md)
 - [Cookies Control](/Cookies-Control.md)
+- [Differeces Between uMatrix and uBlock Origin Advanced Mode](Differences.md)
 - [uMatrix Friendly Sites](/uMatrix-Friendly-Sites.md)
 - Third Party Iframe
     - [Google Service](/Google-Services.md)

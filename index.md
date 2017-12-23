@@ -61,7 +61,7 @@ Here is a summation of all relevant knowledge you should have learned before usi
 ## Ovagarava - T.O.C.
 
 - [Blacklist Mode](/Blacklist-Mode.md)
-- [Contributing](/Contributing.md)
+- [Contributing Guidelines](/Contributing.md)
 - [Cookies Control](/Cookies-Control.md)
 - [uMatrix Friendly Sites](/uMatrix-Friendly-Sites.md)
 - Third Party Iframe

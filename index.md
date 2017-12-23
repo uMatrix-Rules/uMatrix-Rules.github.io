@@ -4,7 +4,9 @@ Here is a summation of all relevant knowledge you should have learned before usi
 
 [uMatrix](https://github.com/gorhill/uMatrix) is a great browser extension, `point and click matrix to filter net requests according to source, destination and type`.
 
-## FAQs
+---
+
+## Shagdovala - FAQs
 
 1. What are principles on enabling third-party elements?
 
@@ -27,7 +29,11 @@ Here is a summation of all relevant knowledge you should have learned before usi
     - at `Security` section, **uncheck** `Block dangerous and deceptive content`: this uses Google Safe Browsing API and tracks your everywhere. Use pro anti-virus programs instead if necessary.
 1. How can I donate?
 
-    No any will to accept yet.
+    [The owner](https://github.com/Rictusempra) has no any will to accept. Check how [other members](https://github.com/orgs/uMatrix-Rules/people) say.
+
+1. What are these strange awkward words on this page?
+
+    They are quotes of a character, `Gnar`, in an MMORPG called `League of Legends`. You may find all quotes [here](http://leagueoflegends.wikia.com/wiki/Gnar/Quotes).
 
 ## Gnar gada! - USAGE
 
@@ -55,6 +61,23 @@ Here is a summation of all relevant knowledge you should have learned before usi
         - is a private blog site that is not hosted on public serivce
     - relevant with any plugin, such as Adobe Flash
     - other issues you should have learnt from uMatrix [README](https://github.com/gorhill/uMatrix/blob/master/README.md) or [wiki](https://github.com/gorhill/uMatrix/wiki)
+
+---
+
+## Shugi shugi shugi - Some Temp. Rules
+
+These rules should be used as temporary rules cleared as your browser closes rather than kept in uMatrix as permanent rules.
+Such a behavior is suggested as these rules reserve usability on several pages while allowing tracking in very most parts on those sites.
+
+Hint: you don't have to copy & paste them. Simply click uMatrix toolbar button and click on the corresponding square.
+
+#### Baidu
+
+    baidu.com fex.bdstatic.com script allow
+
+#### Bilibili
+
+    bilibili.com activity.hdslb.com script allow
 
 ---
 

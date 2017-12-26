@@ -1,4 +1,4 @@
-## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava)
+## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava---toc)
 
 #### QQ Captcha
 

@@ -1,4 +1,4 @@
-## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava)
+## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava---toc)
 
 As how it says in [uMatrix wiki](https://github.com/gorhill/uMatrix/wiki/Cookies), uMatrix will prevent cookies `from leaving your browser`.
 By following rule sets bellow you do do further:

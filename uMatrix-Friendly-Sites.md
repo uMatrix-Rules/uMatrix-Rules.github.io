@@ -1,4 +1,4 @@
-## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava)
+## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava---toc)
 
 Here is a list about sites that do **not** require any extra rules to function properly **very mostly** with uMatrix in White-list Mode **if you are not to login**:
 

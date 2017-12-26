@@ -11,7 +11,8 @@ Here is a summation of all relevant knowledge you should have learned before usi
 1. What are principles on enabling third-party elements?
 
     The first prioirty  is to be sure most site function for normal browsing is working as how it is expected. The more elements is blocked despite that, the better.
-1. It this enough (any other privacy tools recommened)?
+
+2. It this enough (any other privacy tools recommened)?
 
     It is definitely not enough, some third-party elements contain both normal site facilities and also tracking scripts. Here are some others helpful:
     - [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker)
@@ -21,26 +22,32 @@ Here is a summation of all relevant knowledge you should have learned before usi
     - [Neat URL](http://hugsmile.eu/)
     - [uBlock Origin](https://github.com/gorhill/uBlock)
 
-    Plus, if you re using [Mozilla Firefox](https://www.mozilla.org/firefox/all/), despite that battery API is removed to avoid being tracked, it is also suggested to navigation to `about:preferences#privacy`:
+    Plus, if you re using [Mozilla Firefox](https://www.mozilla.org/firefox/all/), despite that battery API is removed to avoid being tracked, it is also suggested to navigation to:
 
-    - at `History` section, select `Never` at `Accept third-party cookies`; check `Clear history when Firefox closes` option whose settings are suggested as at least `Cache`, `Site Preferences` and `Offline Website Data`.
-    - at `Tracking Protection` section, select both `Always`
-    - at `Permissions` section, check `Prevent accessibility services from accessing your browser`.
-    - at `Security` section, **uncheck** `Block dangerous and deceptive content`: this uses Google Safe Browsing API and tracks your everywhere. Use pro anti-virus programs instead if necessary.
-1. How can I donate?
+    - `about:preferences#privacy`
+        - at `History` section, select `Never` at `Accept third-party cookies`; check `Clear history when Firefox closes` option whose settings are suggested as at least `Cache`, `Site Preferences` and `Offline Website Data`.
+        - at `Tracking Protection` section, select both `Always`
+        - at `Permissions` section, check `Prevent accessibility services from accessing your browser`.
+        - at `Security` section, **uncheck** `Block dangerous and deceptive content`: this uses Google Safe Browsing API and tracks your everywhere. Use pro anti-virus programs instead if necessary.
+    - `about:preferences#search`
+        - at `Default Search Engine` section, **uncheck** `Show search suggestions in address bar results`: the search engine provide will collect info if this is checked. If you rely on the suggestions, use engines that don't record things instead, e.g. DuckDuckGo.
+
+3. How can I donate?
 
     [The owner](https://github.com/Rictusempra) has no any will to accept. Check how [other members](https://github.com/orgs/uMatrix-Rules/people) say.
 
-1. What are these strange awkward words on this page?
+4. What are these strange awkward words on this page?
 
     They are quotes of a character, `Gnar`, in an MMORPG called `League of Legends`. You may find all quotes [here](http://leagueoflegends.wikia.com/wiki/Gnar/Quotes).
 
 ## Gnar gada! - USAGE
 
-1. First, choose a rule level you would prefer, [domain](https://github.com/uMatrix-Rules/uMatrix-Rules-Domain) or [site](https://github.com/uMatrix-Rules/uMatrix-Rules-Site).  It is recommended to choose the latter. Save the `rules.txt` into any local directory or directly open it in your browser & copy all contents
+1. First, choose a rule level you would prefer, [domain](https://github.com/uMatrix-Rules/uMatrix-Rules-Domain) or [site](https://github.com/uMatrix-Rules/uMatrix-Rules-Site).  It is recommended to choose the latter. Save the `rules.txt` into any local directory, or directly open it in your browser & copy all contents
 2. open your uMatrix dashboard
 3. navigate to `My rules` tab
-4. click `Import from file...` and pick the file you just downloaded or click `Edit` and paste them
+4. import the rules:
+   - click `Import from file...` and pick the file you just downloaded or;
+   - click `Edit` and paste them from clipboard
 5. edit as your like or click `Save`, and then `Commit`
 
 ## Shubbanuffa - BEFORE USING
@@ -53,14 +60,14 @@ Here is a summation of all relevant knowledge you should have learned before usi
     - If you are submitting issue on any site that requires account (cookies), a valid account mailed to the [org email address](lolipopplus@protonmail.com) may be necessary. By doing that you are trusting [org owner](https://github.com/Rictusempra) enough.
 - Here are service inavailablity things that won't be fixed:
     -  from contents blocked by any built-in subscriptions
-    - caused by certain preferences outside of rule sets or of uMatrix itself
-    - if a site:
+    -  caused by certain preferences outside of rule sets or of uMatrix itself
+    -  if a site:
         -  is using cert from any untrusted CA
-        - containing **mostly only** pornographic content
-        - reported as a deceptive site
-        - is a private blog site that is not hosted on public serivce
-    - relevant with any plugin, such as Adobe Flash
-    - other issues you should have learnt from uMatrix [README](https://github.com/gorhill/uMatrix/blob/master/README.md) or [wiki](https://github.com/gorhill/uMatrix/wiki)
+        -  containing **mostly only** pornographic content
+        -  reported as a deceptive site
+        -  is a private blog site that is not hosted on public serivce
+    -  relevant with any plugin, such as Adobe Flash
+    -  other issues you should have learnt from uMatrix [README](https://github.com/gorhill/uMatrix/blob/master/README.md) or [wiki](https://github.com/gorhill/uMatrix/wiki)
 
 ---
 
@@ -78,7 +85,6 @@ Hint: you don't have to copy & paste them. Simply click uMatrix toolbar button a
 #### Bilibili
 
     bilibili.com activity.hdslb.com script allow
-
 ---
 
 ## Ovagarava - T.O.C.

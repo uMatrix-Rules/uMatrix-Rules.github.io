@@ -1,4 +1,4 @@
-## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava)
+## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava---toc)
 
 You may wonder the why uMatrix is still necessary even if you have checked `I am an advanced user` on uBlock Origin's dashboard and added `* * 3p block`, `* * 3p-script block`, `* * 3p-frame block`as permanent custom rules toward uBlock Origin.
 

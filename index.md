@@ -18,9 +18,12 @@ Here is a summation of all relevant knowledge you should have learned before usi
     - [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker)
     - [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete)
     - [Decentraleyes](https://decentraleyes.org/)
-    - [HTTPS Everywhere](https://www.eff.org/https-everywhere)
+    - [Don't Fuck With Paste](https://addons.mozilla.org/firefox/addon/don-t-fuck-with-paste/): this may break certain amount of sites
+    - [HTTPS Everywhere](https://www.eff.org/https-everywhere): take a trunk of RAM
     - [Neat URL](http://hugsmile.eu/)
+    - [NoProfile](https://addons.mozilla.org/firefox/addon/noprofile/)
     - [uBlock Origin](https://github.com/gorhill/uBlock)
+    - [URL Tooltip WE](https://addons.mozilla.org/firefox/addon/url-tooltip-we/)
 
     Plus, if you re using [Mozilla Firefox](https://www.mozilla.org/firefox/all/), despite that battery API is removed to avoid being tracked, it is also suggested to navigation to:
 
@@ -30,7 +33,7 @@ Here is a summation of all relevant knowledge you should have learned before usi
         - at `Permissions` section, check `Prevent accessibility services from accessing your browser`.
         - at `Security` section, **uncheck** `Block dangerous and deceptive content`: this uses Google Safe Browsing API and tracks your everywhere. Use pro anti-virus programs instead if necessary.
     - `about:preferences#search`
-        - at `Default Search Engine` section, **uncheck** `Show search suggestions in address bar results`: the search engine provide will collect info if this is checked. If you rely on the suggestions, use engines that don't record things instead, e.g. DuckDuckGo.
+        - at `Default Search Engine` section, **uncheck** `Show search suggestions in address bar results`: the search engine provider will collect info if this is checked. If you rely on the suggestions, use engines that don't record things instead, e.g. DuckDuckGo.
 
 3. How can I donate?
 

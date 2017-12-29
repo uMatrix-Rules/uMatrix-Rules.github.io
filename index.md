@@ -85,6 +85,11 @@ Hint: you don't have to copy & paste them. Simply click uMatrix toolbar button a
 #### Bilibili
 
     bilibili.com activity.hdslb.com script allow
+
+#### Youku
+
+The rules given here should work fine. If not, disable the scope & hard refresh (without cache), and enable again as soon as any video starts. Still no idea why.
+
 ---
 
 ## Ovagarava - T.O.C.

@@ -3,7 +3,7 @@
 As how it says in [uMatrix wiki](https://github.com/gorhill/uMatrix/wiki/Cookies), uMatrix will prevent cookies `from leaving your browser`.
 By following rule sets bellow you do do further:
 
-Add rule `* * cookie block`, which means to block cookies globally by default. You can then allow them in any specific scope where you are to login. Here is an example:
+Add rule `* * cookie block`, which means to block cookies globally by default. You will then have to allow them manually in any scope where you are to login or where cookie use case ever exists helpful to you. Here is an example:
 
     * * cookie block
     google.com accounts.google.com cookie allow

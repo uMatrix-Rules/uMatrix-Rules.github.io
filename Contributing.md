@@ -4,7 +4,7 @@ To contribute this org, you may:
 
 1. fork & submit PR(s).
     - In this case, pls arrange rules alphabetically.
-2. tanslate these docs into other locales than Enlish. Zh-CN or zh-TW is not accepted yet.
+2. tanslate these docs into other locales than Enlish. Zh-CN or zh-TW is not accepted.
 3. contribute to uMatrix. Without it, this org is totally pointless.
 
 ### Reeshoova!

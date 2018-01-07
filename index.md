@@ -10,9 +10,9 @@ Here is a summation of all relevant knowledge you should have learned before usi
 
 1. What are principles on enabling third-party elements?
 
-    The first prioirty  is to be sure most site function for normal browsing is working as how it is expected. The more elements is blocked despite that, the better.
+    The first priority is to be sure most site function for normal browsing is working as how it is expected. The more element is blocked despite that, the better.
 
-2. It this enough (any other privacy tools recommened)?
+2. It this enough (any other privacy tools recommended)?
 
     It is definitely not enough, some third-party elements contain both normal site facilities and also tracking scripts. Here are some others helpful:
     - [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker)
@@ -21,7 +21,7 @@ Here is a summation of all relevant knowledge you should have learned before usi
     - [Don't Fuck With Paste](https://addons.mozilla.org/firefox/addon/don-t-fuck-with-paste/): this may break certain amount of sites
     - [HTTPS Everywhere](https://www.eff.org/https-everywhere): take a trunk of RAM & most probably severe performance issues
     - [Neat URL](http://hugsmile.eu/)
-    - [NoProfile](https://addons.mozilla.org/firefox/addon/noprofile/)
+    - [NoProfile](https://addons.mozilla.org/firefox/addon/noprofile/): this may cause some sites behave strange, especially where there are many mouse-hover-based elements
     - [uBlock Origin](https://github.com/gorhill/uBlock)
     - [URL Tooltip WE](https://addons.mozilla.org/firefox/addon/url-tooltip-we/)
 
@@ -51,7 +51,7 @@ Here is a summation of all relevant knowledge you should have learned before usi
 4. import the rules:
    - click `Import from file...` and pick the file you just downloaded or;
    - click `Edit` and paste them from clipboard
-5. edit as your like or click `Save`, and then `Commit`
+5. edit as your like and/or click `Save`, and then `Commit`
 
 ## Shubbanuffa - BEFORE USING
 
@@ -60,12 +60,12 @@ Here is a summation of all relevant knowledge you should have learned before usi
     - give a specific URL
     - point out your uMatrix version & broswer version
     - attach your own rules and, if differ from default, your preferences
-    - If you are submitting issue on any site that requires account (cookies), a valid account mailed to the [org email address](lolipopplus@protonmail.com) may be necessary. By doing that you are trusting [org owner](https://github.com/Rictusempra) enough.
+    - If you are submitting issue on any site that requires an account (cookies), a valid account mailed to the [org email address](lolipopplus@protonmail.com) may be necessary. By doing that you are trusting [org owner](https://github.com/Rictusempra) enough.
 - Here are service inavailablity things that won't be fixed:
     -  from contents blocked by any built-in subscriptions
     -  caused by certain preferences outside of rule sets or of uMatrix itself
     -  if a site:
-        -  is using cert from any untrusted CA
+        -  is using SSL cert from any untrusted CA
         -  containing **mostly only** pornographic content
         -  reported as a deceptive site
         -  is a private blog site that is not hosted on public serivce
@@ -101,7 +101,6 @@ The rules given here should work fine. If not, disable the scope & hard refresh 
 - [Contributing Guidelines](/Contributing.md)
 - [Cookies Control](/Cookies-Control.md)
 - [Differeces Between uMatrix and uBlock Origin Advanced Mode](Differences.md)
-- [uMatrix Friendly Sites](/uMatrix-Friendly-Sites.md)
 - Third Party Iframe
     - [Google Service](/Google-Services.md)
     - [Video Iframe Examples](/Video-Iframe-Examples.md)

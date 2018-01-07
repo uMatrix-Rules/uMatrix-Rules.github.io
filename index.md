@@ -19,7 +19,7 @@ Here is a summation of all relevant knowledge you should have learned before usi
     - [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete)
     - [Decentraleyes](https://decentraleyes.org/)
     - [Don't Fuck With Paste](https://addons.mozilla.org/firefox/addon/don-t-fuck-with-paste/): this may break certain amount of sites
-    - [HTTPS Everywhere](https://www.eff.org/https-everywhere): take a trunk of RAM
+    - [HTTPS Everywhere](https://www.eff.org/https-everywhere): take a trunk of RAM & most probably severe performance issues
     - [Neat URL](http://hugsmile.eu/)
     - [NoProfile](https://addons.mozilla.org/firefox/addon/noprofile/)
     - [uBlock Origin](https://github.com/gorhill/uBlock)

@@ -1,6 +1,5 @@
 ## Vrooboo! Wabbo!!
 
-[![](https://img.shields.io/badge/%F0%9F%8C%8D-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-red.svg)](/zh-CN/index.md) ![](https://img.shields.io/badge/%F0%9F%8C%8D-%E6%AD%A3%E9%AB%94%E4%B8%AD%E6%96%87-red.svg)
 Here is a summation of all relevant knowledge you should have learned before using the ruleset.
 
 [uMatrix](https://github.com/gorhill/uMatrix) is a great browser extension, `point and click matrix to filter net requests according to source, destination and type`.
@@ -90,7 +89,7 @@ Here is a summation of all relevant knowledge you should have learned before usi
 
 ---
 
-### Reeshoova! - LICENSE
+### Reeshoova! - 许可协议
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
-Except where otherwise noted, all content in this org is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>
+除非额外声明，否则本组织中全部内容许可协议均为 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>

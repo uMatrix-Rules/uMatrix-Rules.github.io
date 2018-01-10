@@ -1,7 +1,7 @@
 ## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava---toc)
 ### Explanations to uMatrix Visual Elements
 
-![](/assets/power.png) temporary power switch for current scope (creating `matrix-off: example.com true` as a temporary rule). The number at the corner means scope detected.
+![](/assets/power.png) temporary power switch for current scope (creating `matrix-off: example.com true` as a temporary rule). The number at the corner is hostname counting.
 
 ![](/assets/dots.png) per-scope switches for some built-in privacy tools. Go to `Settings` tab in uMatrix dashboard for global preferences. The number at the corner means activated changes for current scope.
 
@@ -21,7 +21,10 @@
 
 At any squares as the three types above, for current scope, click the topper part to allow the corresponding elements or the lower part to block.
 
-`Deep-colored sqaures (with a triangle)`: Permanent rules for current scope.
+`Deep-colored sqaures (with a triangle)`: Permanent rules for current scope:
+
+- `Red ones`: click the topper part to revert but it may be still blocked by global rules.
+- `Green ones`: click the lower part to revert.
 
 `Deep-colored sqaures (without a triangle)`: Temporary rules for current scope.
 

@@ -6,6 +6,21 @@ Here is a summation of all relevant knowledge you should have learned before usi
 
 ---
 
+## Ovagarava - T.O.C.
+
+- [Blacklist Mode](/Blacklist-Mode.md)
+- [Contributing Guidelines](/Contributing.md)
+- [Cookies Control](/Cookies-Control.md)
+- [Differeces Between uMatrix and uBlock Origin Advanced Mode](Differences.md)
+- [Temporary Rules](Temp.md)
+- Third Party Iframe
+    - [Google Service](/Google-Services.md)
+    - [Video Iframe Examples](/Video-Iframe-Examples.md)
+    - [Others](/Others.md)
+- [Visual Elements Design in uMatrix](Visual.md)
+
+---
+
 ## Shagdovala - FAQs
 
 1. What are principles on enabling third-party elements?
@@ -73,39 +88,6 @@ Here is a summation of all relevant knowledge you should have learned before usi
     -  other issues you should have learnt from uMatrix [README](https://github.com/gorhill/uMatrix/blob/master/README.md) or [wiki](https://github.com/gorhill/uMatrix/wiki)
 
 ---
-
-## Shugi shugi shugi - Some Temp. Rules
-
-These rules should be used as temporary rules cleared as your browser closes rather than kept in uMatrix as permanent rules.
-Such a behavior is suggested as these rules reserve usability on several pages while allowing tracking in very most parts on those sites.
-
-Hint: you don't have to copy & paste them. Simply click uMatrix toolbar button and click on the corresponding square.
-
-#### Baidu
-
-    baidu.com fex.bdstatic.com script allow
-
-#### Bilibili
-
-    bilibili.com activity.hdslb.com script allow
-
-#### Youku
-
-The rules given here should work fine. If not, disable the scope & hard refresh (without cache), and enable again as soon as any video starts. Still no idea why.
-
----
-
-## Ovagarava - T.O.C.
-
-- [Blacklist Mode](/Blacklist-Mode.md)
-- [Contributing Guidelines](/Contributing.md)
-- [Cookies Control](/Cookies-Control.md)
-- [Differeces Between uMatrix and uBlock Origin Advanced Mode](Differences.md)
-- Third Party Iframe
-    - [Google Service](/Google-Services.md)
-    - [Video Iframe Examples](/Video-Iframe-Examples.md)
-    - [Others](/Others.md)
-- [Visual Elements Design in uMatrix](Visual.md)
 
 ### Reeshoova! - LICENSE
 

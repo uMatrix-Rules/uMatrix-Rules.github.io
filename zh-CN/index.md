@@ -58,34 +58,34 @@
 
     它们是一个叫 `LOL` 的 MMORPG 中的一个叫纳尔的角色台词。你可以[在这里](http://leagueoflegends.wikia.com/wiki/Gnar/Quotes)找到全部它的台词。
 
-## Gnar gada! - USAGE
+## Gnar gada! - 使用方法
 
-1. First, choose a rule level you would prefer, [domain](https://github.com/uMatrix-Rules/uMatrix-Rules-Domain) or [site](https://github.com/uMatrix-Rules/uMatrix-Rules-Site).  It is recommended to choose the latter. Save the `rules.txt` into any local directory, or directly open it in your browser & copy all contents
-2. open your uMatrix dashboard
-3. navigate to `My rules` tab
-4. import the rules:
-   - click `Import from file...` and pick the file you just downloaded or;
-   - click `Edit` and paste them from clipboard
-5. edit as your like and/or click `Save`, and then `Commit`
+1. 首选选择适合自己的规则类别：[domain](https://github.com/uMatrix-Rules/uMatrix-Rules-Domain) 或者 [site](https://github.com/uMatrix-Rules/uMatrix-Rules-Site)。建议选择后者。将 `rules.text` 文件保存到本地或者直接在浏览器中打开并复制全部内容。
+2. 打开 uMatrix 控制台
+3. 转到 `My rules` 选项卡
+4. 导入规则：
+   - 点击 `从文件导入...` 并选择你保存的文件，或者；
+   - 点击 `编辑` 并从剪贴板粘贴
+5. 按需求编辑或点击 `保存`，然后点击 `提交`
 
-## Shubbanuffa - BEFORE USING
+## Shubbanuffa - 使用须知
 
-- I can only ensure most site functions are workable. Use at your own risk.
-- If you are expecting my investigation on any specific site, pls open a new issue at [corresponding place](https://github.com/uMatrix-Rules):
-    - give a specific URL
-    - point out your uMatrix version & broswer version
-    - attach your own rules and, if differ from default, your preferences
-    - If you are submitting issue on any site that requires an account (cookies), a valid account mailed to the [org email address](lolipopplus@protonmail.com) may be necessary. By doing that you are trusting [org owner](https://github.com/Rictusempra) enough.
-- Here are service inavailablity things that won't be fixed:
-    -  from contents blocked by any built-in subscriptions
-    -  caused by certain preferences outside of rule sets or of uMatrix itself
-    -  if a site:
-        -  is using SSL cert from any untrusted CA
-        -  containing **mostly only** pornographic content
-        -  reported as a deceptive site
-        -  is a private blog site that is not hosted on public serivce
-    -  relevant with any plugin, such as Adobe Flash
-    -  other issues you should have learnt from uMatrix [README](https://github.com/gorhill/uMatrix/blob/master/README.md) or [wiki](https://github.com/gorhill/uMatrix/wiki)
+- 仅保证大部分站点功能正常。使用须自负风险。
+- 当需要提交站点异常时，请在[对应的 repository](https://github.com/uMatrix-Rules) 新建一个 issue：
+    - 给出具体的 URL
+    - 附注 uMatrix 与浏览器 version
+    - 附注你自行创建的规则。如已修改默认设置，须一并指出
+    - 当提交的网站需要一个账号的时候，你必须首先将一个可用的账号发送到[组织邮箱](lolipopplus@protonmail.com)。发送即视为信任[组织所有人](https://github.com/Rictusempra)。
+- 当遇到以下情况导致的站点异常时不会予以处理：
+    -  站点功能内容被内置订阅拦截
+    -  站点功能异常来由并非 uMatrix 规则或者 uMatrix 自身设置
+    -  当该站点符合以下任意情况之一时：
+        -  使用不受信任的 CA 签发的证书
+        -  **大部分**内容均为色情内容
+        -  被报告为危险站点
+        -  并非托管于公共服务的个人博客站点
+    -  与插件相关，例如 Adobe Flash
+    -  其它 uMatrix [README](https://github.com/gorhill/uMatrix/blob/master/README.md) 或 [wiki](https://github.com/gorhill/uMatrix/wiki) 中已明确的问题
 
 ---
 

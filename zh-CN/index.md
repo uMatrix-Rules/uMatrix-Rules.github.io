@@ -43,7 +43,7 @@
     此外，如果你使用 [Mozilla Firefox](https://www.mozilla.org/firefox/all/)，除 battery API 已移除以保护隐私，同时建议转到：
 
     - `about:preferences#privacy`
-        - 在 `History` section, select `Never` at `Accept third-party cookies`; check `Clear history when Firefox closes` option whose settings are suggested as at least `Cache`, `Site Preferences` and `Offline Website Data`.
+        - 在 `历史` 一节，在 `接受第三方 cookies` 一项中选择 `从不`；勾选 `Firefox 退出时清理历史`，在其中的更多选项中至少建议勾选 `缓存`、`站点设置` 与 `离线网站数据`。 
         - at `Tracking Protection` section, select both `Always`
         - at `Permissions` section, check `Prevent accessibility services from accessing your browser`.
         - at `Security` section, **uncheck** `Block dangerous and deceptive content`: this uses Google Safe Browsing API and tracks your everywhere. Use pro anti-virus programs instead if necessary.

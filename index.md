@@ -1,6 +1,6 @@
 ## Vrooboo! Wabbo!!
 
-[![](https://img.shields.io/badge/%F0%9F%8C%8D-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-red.svg)](/zh-CN/index.md) ![](https://img.shields.io/badge/%F0%9F%8C%8D-%E6%AD%A3%E9%AB%94%E4%B8%AD%E6%96%87-red.svg)
+[![](https://img.shields.io/badge/%F0%9F%8C%8D-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-red.svg)](/zh-CN/) ![](https://img.shields.io/badge/%F0%9F%8C%8D-%E6%AD%A3%E9%AB%94%E4%B8%AD%E6%96%87-red.svg)
 
 Here is a summation of all relevant knowledge you should have learned before using the ruleset.
 

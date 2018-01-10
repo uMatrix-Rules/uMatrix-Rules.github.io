@@ -44,19 +44,19 @@
 
     - `about:preferences#privacy`
         - 在 `历史` 一节，在 `接受第三方 cookies` 一项中选择 `从不`；勾选 `Firefox 退出时清理历史`，在其中的更多选项中至少建议勾选 `缓存`、`站点设置` 与 `离线网站数据`。 
-        - at `Tracking Protection` section, select both `Always`
-        - at `Permissions` section, check `Prevent accessibility services from accessing your browser`.
-        - at `Security` section, **uncheck** `Block dangerous and deceptive content`: this uses Google Safe Browsing API and tracks your everywhere. Use pro anti-virus programs instead if necessary.
+        - 在 `追踪保护` 一节，选中两个 `总是` 。
+        - 在 `权限` 一节，勾选 `阻止无障碍服务接入浏览器` 。
+        - 在 `安全` 一节，**取消勾选** `拦截危险的下载与站点`：这一功能使用 Google Safe Browsing API 并会时刻追踪用户。如有必要，请使用专业反病毒软件。
     - `about:preferences#search`
-        - at `Default Search Engine` section, **uncheck** `Show search suggestions in address bar results`: the search engine provider will collect info if this is checked. If you rely on the suggestions, use engines that don't record things instead, e.g. DuckDuckGo.
+        - 在 `默认搜索引擎` 一节，**取消勾选** `在地址栏中显示搜索建议`：搜索引擎能因此收集信息。如有必要，请使用不记录搜索的引擎作为替代，比如 DuckDuckGo。
 
-3. How can I donate?
+3. 如何捐助？
 
-    [The owner](https://github.com/Rictusempra) has no any will to accept. Check how [other members](https://github.com/orgs/uMatrix-Rules/people) say.
+    [组织所有人](https://github.com/Rictusempra) 无意接受任何捐助。您可以询问[其他成员](https://github.com/orgs/uMatrix-Rules/people)是否有意愿。
 
-4. What are these strange awkward words on this page?
+4. 本站有些奇怪的词是什么意思？
 
-    They are quotes of a character, `Gnar`, in an MMORPG called `League of Legends`. You may find all quotes [here](http://leagueoflegends.wikia.com/wiki/Gnar/Quotes).
+    它们是一个叫 `LOL` 的 MMORPG 中的一个叫纳尔的角色台词。你可以[在这里](http://leagueoflegends.wikia.com/wiki/Gnar/Quotes)找到全部它的台词。
 
 ## Gnar gada! - USAGE
 

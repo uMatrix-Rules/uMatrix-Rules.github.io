@@ -1,49 +1,49 @@
 ## Vrooboo! Wabbo!!
 
-Here is a summation of all relevant knowledge you should have learned before using the ruleset.
+此处为规则使用知识集合库。
 
-[uMatrix](https://github.com/gorhill/uMatrix) is a great browser extension, `point and click matrix to filter net requests according to source, destination and type`.
+[uMatrix](https://github.com/gorhill/uMatrix) 是一个浏览器扩展，可以根据网络请求的来源、类型、目标等进行点状控制。
 
 ---
 
 ## Ovagarava - T.O.C.
 
-- [Blacklist Mode](Blacklist-Mode.md)
-- [Contributing Guidelines](Contributing.md)
-- [Cookies Control](Cookies-Control.md)
-- [Differeces Between uMatrix and uBlock Origin Advanced Mode](Differences.md)
-- [Temporary Rules](Temp.md)
-- Third Party Iframe
-    - [Google Service](Google-Services.md)
-    - [Video Iframe Examples](Video-Iframe-Examples.md)
-    - [Others](Others.md)
-- [Visual Elements Design in uMatrix](Visual.md)
+- [黑名单模式](Blacklist-Mode.md)
+- [贡献指引](Contributing.md)
+- [Cookies 控制](Cookies-Control.md)
+- [uMatrix 与 uBlock Origin 高级模式之间的区别](Differences.md)
+- [临时规则](Temp.md)
+- 第三方框架
+    - [Google 服务](Google-Services.md)
+    - [Video 框架举例](Video-Iframe-Examples.md)
+    - [其它](Others.md)
+- [uMatrix 按钮功能](Visual.md)
 
 ---
 
 ## Shagdovala - FAQs
 
-1. What are principles on enabling third-party elements?
+1. 允许加载第三方元素应该遵循什么原则？
 
-    The first priority is to be sure most site function for normal browsing is working as how it is expected. The more element is blocked despite that, the better.
+    首先应该确保日常浏览中大部分站点功能正常运作，在此基础上，越多元素被拦截效果越好。
 
-2. It this enough (any other privacy tools recommended)?
+2. 仅使用 uMatrix 就足够了吗（还有没有推荐的隐私增强工具）？
 
-    It is definitely not enough, some third-party elements contain both normal site facilities and also tracking scripts. Here are some others helpful:
+    答案是否定的。有些第三方元素同时包含正常站点功能元素与追踪脚本。以下为可能有帮助的例子：
     - [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker)
     - [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete)
     - [Decentraleyes](https://decentraleyes.org/)
-    - [Don't Fuck With Paste](https://addons.mozilla.org/firefox/addon/don-t-fuck-with-paste/): this may break certain amount of sites
-    - [HTTPS Everywhere](https://www.eff.org/https-everywhere): take a trunk of RAM & most probably severe performance issues
+    - [Don't Fuck With Paste](https://addons.mozilla.org/firefox/addon/don-t-fuck-with-paste/)：可能破坏一些特定的页面
+    - [HTTPS Everywhere](https://www.eff.org/https-everywhere)：占用大量 RAM 并且很有可能有严重性能问题
     - [Neat URL](http://hugsmile.eu/)
-    - [NoProfile](https://addons.mozilla.org/firefox/addon/noprofile/): this may cause some sites behave strange, especially where there are many mouse-hover-based elements
+    - [NoProfile](https://addons.mozilla.org/firefox/addon/noprofile/)：某些站点可能表现异常，尤其是包含大量鼠标悬浮特效时
     - [uBlock Origin](https://github.com/gorhill/uBlock)
     - [URL Tooltip WE](https://addons.mozilla.org/firefox/addon/url-tooltip-we/)
 
-    Plus, if you re using [Mozilla Firefox](https://www.mozilla.org/firefox/all/), despite that battery API is removed to avoid being tracked, it is also suggested to navigation to:
+    此外，如果你使用 [Mozilla Firefox](https://www.mozilla.org/firefox/all/)，除 battery API 已移除以保护隐私，同时建议转到：
 
     - `about:preferences#privacy`
-        - at `History` section, select `Never` at `Accept third-party cookies`; check `Clear history when Firefox closes` option whose settings are suggested as at least `Cache`, `Site Preferences` and `Offline Website Data`.
+        - 在 `History` section, select `Never` at `Accept third-party cookies`; check `Clear history when Firefox closes` option whose settings are suggested as at least `Cache`, `Site Preferences` and `Offline Website Data`.
         - at `Tracking Protection` section, select both `Always`
         - at `Permissions` section, check `Prevent accessibility services from accessing your browser`.
         - at `Security` section, **uncheck** `Block dangerous and deceptive content`: this uses Google Safe Browsing API and tracks your everywhere. Use pro anti-virus programs instead if necessary.

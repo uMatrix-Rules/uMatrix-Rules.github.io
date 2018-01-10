@@ -1,18 +1,19 @@
 ## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava---toc)
 
-As how it says in [uMatrix wiki](https://github.com/gorhill/uMatrix/wiki/Cookies), uMatrix will prevent cookies `from leaving your browser`.
-By following rule sets bellow you do do further:
+证如 [uMatrix wiki](https://github.com/gorhill/uMatrix/wiki/Cookies) 中所说，uMatrix 会阻止 cookies `遗留在浏览器中`。
+遵循以下步骤可以获得更好的效果：
 
-Add rule `* * cookie block`, which means to block cookies globally by default. You will then have to allow them manually in any scope where you are to login or where cookie use case ever exists helpful to you. Here is an example:
+添加规则 `* * cookie block`，意为默认全局阻止 cookies。此后必须要在需要 cookies 的站点手动允许 cookies。以下是一个例子：
 
     * * cookie block
     google.com accounts.google.com cookie allow
     google.com google.com cookie block
 
-In this case, `google.com google.com cookie block` prevent cookie-based tracking from Google search but, meanwhile, `google.com accounts.google.com cookie allow` can allow you to login to some Google service.
+这一情况下，`google.com google.com cookie block` 会阻止来自于 Google 搜索的基于 cookies 的追踪，同时，`google.com accounts.google.com cookie allow` 将保证可以登录一些 Google 的服务。
 
-Such implement can be found in [here](https://github.com/uMatrix-Rules/uMatrix-Rules-Site/tree/Strict-Cookies).
+这一实现位于[此处](https://github.com/uMatrix-Rules/uMatrix-Rules-Site/tree/Strict-Cookies)。
 
-### Reeshoova!
+### Reeshoova! - 许可协议
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
-Except where otherwise noted, all content in this org is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>
+除非额外声明，否则本组织中全部内容许可协议均为 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>

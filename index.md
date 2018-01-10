@@ -105,7 +105,9 @@ The rules given here should work fine. If not, disable the scope & hard refresh 
     - [Google Service](/Google-Services.md)
     - [Video Iframe Examples](/Video-Iframe-Examples.md)
     - [Others](/Others.md)
+- [Visual Elements Design in uMatrix](Visual.md)
 
 ### Reeshoova! - LICENSE
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 Except where otherwise noted, all content in this org is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>

@@ -11,7 +11,7 @@ Here is a summation of all relevant knowledge you should have learned before usi
 ## Ovagarava - T.O.C.
 
 - [Blacklist Mode](Blacklist-Mode.md)
-- [Contributing Guidelines](Contributing.md)
+- [Contributing Guidelines](Guidelines.md)
 - [Cookies Control](Cookies-Control.md)
 - [Differeces Between uMatrix and uBlock Origin Advanced Mode](Differences.md)
 - [Temporary Rules](Temp.md)

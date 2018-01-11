@@ -1,11 +1,11 @@
 ## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava---toc)
 
-#### Shugi shugi shugi - Some Temp. Rules
+#### Shugi shugi shugi - 临时规则
 
-These rules should be used as temporary rules cleared as your browser closes rather than kept in uMatrix as permanent rules.
-Such a behavior is suggested as these rules reserve usability on several pages while allowing tracking in very most parts on those sites.
+此处列举的规则建议作为临时规则使用，当浏览器关闭时临时规则会被清除，uMatrix 不会将其永久保存。
+理由在于这些规则在恢复特定页面的一些功能的同时放行了追踪元素，但是不应用这些规则但大部分时候页面功能依旧正常。
 
-Hint: you don't have to copy & paste them. Simply click uMatrix toolbar button and click on the corresponding square.
+提示：不必复制粘贴，打开 uMatrix 工具栏弹窗然后点击对应的方块即可。
 
 #### Baidu
 
@@ -22,8 +22,9 @@ Hint: you don't have to copy & paste them. Simply click uMatrix toolbar button a
 
 #### Youku
 
-The rules given here should work fine. If not, disable the scope & hard refresh (without cache), and enable again as soon as any video starts. Still no idea why.
+规则文本中的规则应该能够恢复站点功能。如果发现失效，临时关闭 uMatrix，强制刷新（跳过缓存）之后再开启即可。原因未知。
 
-### Reeshoova!
+### Reeshoova! - 许可协议
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
-Except where otherwise noted, all content in this org is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>
+除非额外声明，否则本组织中全部内容许可协议均为 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>

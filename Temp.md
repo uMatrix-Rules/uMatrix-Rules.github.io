@@ -3,7 +3,7 @@
 #### Shugi shugi shugi - Some Temp. Rules
 
 These rules should be used as temporary rules cleared as your browser closes rather than kept in uMatrix as permanent rules.
-Such a behavior is suggested as these rules reserve usability on several pages while allowing tracking in very most parts on those sites.
+Such a behavior is suggested as these rules reserve usability on several pages while allowing tracking. Site facilitates, however, remain available in very most parts on those sites without these rules.
 
 Hint: you don't have to copy & paste them. Simply click uMatrix toolbar button and click on the corresponding square.
 

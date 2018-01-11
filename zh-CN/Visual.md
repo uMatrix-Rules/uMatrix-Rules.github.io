@@ -1,32 +1,32 @@
 ## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava---toc)
-### Explanations to uMatrix Visual Elements
+### uMatrix 面板元素功能的解释
 
-![](../assets/power.png) temporary power switch for current scope (creating `matrix-off: example.com true` as a temporary rule). The number at the corner is hostname counting.
+![](../assets/power.png) 当前站点下的临时开关（创建临时规则 `matrix-off: example.com true` ）。数字角标为域名计数。
 
-![](../assets/dots.png) per-scope switches for some built-in privacy tools. Go to `Settings` tab in uMatrix dashboard for global preferences. The number at the corner means activated changes for current scope.
+![](../assets/dots.png) 一些内置隐私工具的站点开关。全局设置位于 uMatrix 控制台的 `设置` 选项卡。数字角标为当前站点已开启的工具数量。
 
-![](../assets/lock.png) save all temporary rules and clickable only when any temporary rule ever exists. The number at the corner means the number of temporary rules about to be committed.
+![](../assets/lock.png) 保存全部临时规则，仅当临时规则存在时才处于可点击状态。数字角标为待提交的规则数量。
 
-![](../assets/erase.png) erase all temporary rules and clickable only when any temporary rule ever exists.
+![](../assets/erase.png) 擦除全部临时规则，仅当临时规则存在时才处于可点击状态。
 
-![](../assets/expand.png) Click to expand or fold up all blocked hosts by built-in subscriptions (`Hosts files` tab in the dashboard). They are times when these hostnames appear out of the bottom, e.g. `pingjs.qq.com`. In those cases, they are displayed as `Permanent rules`.
+![](../assets/expand.png) 点击展开或折叠内置订阅拦截的域名（控制台的 `域名文件` 选项卡）。有时候这些域名并不出现在底部，例如 `pingjs.qq.com`，这种情况下，显示为 `永久规则`。
 
 ---
 
-`Red sqaures (or blue sqaures in Color-Blind Friendly Mode)`: Blocked elements.
+`红色方块（或色盲模式下的蓝色方块）`：已阻止的元素。
 
-`Green sqaures(or yellow sqaures in Color-Blind Friendly Mode)`: Allowed elements.
+`绿色方块（或色盲模式下的黄色方块）`：已允许的元素。
 
-`Light-colored sqaures`: Globally applied rules.
+`浅色方块`：全局规则。
 
-At any squares as the three types above, for current scope, click the topper part to allow the corresponding elements or the lower part to block.
+对于当前站点，在以上三种类型的任一方块上，点击方块上半部分以放行对应元素；点击下半部分以拦截。
 
-`Deep-colored sqaures (with a triangle)`: Permanent rules for current scope:
+`深色方块（带小三角）`：当前站点永久规则。
 
-- `Red ones`: click the topper part to revert but it may be still blocked by global rules.
-- `Green ones`: click the lower part to revert.
+- `深红色方块（或色盲模式下的深蓝色方块）`：点击上半部分以撤销，但是对应元素仍有可能被全局规则拦截。
+- `深绿色方块（或色盲模式下的深黄色方块）`：点击下半部分以撤销。
 
-`Deep-colored sqaures (without a triangle)`: Temporary rules for current scope.
+`深色方块（不带小三角）`：当前站点临时规则。
 
 ### Reeshoova! - 许可协议
 

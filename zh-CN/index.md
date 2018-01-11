@@ -9,7 +9,7 @@
 ## Ovagarava - T.O.C.
 
 - [黑名单模式](Blacklist-Mode.md)
-- [贡献指引](Contributing.md)
+- [贡献指引](Guidelines.md)
 - [Cookies 控制](Cookies-Control.md)
 - [uMatrix 与 uBlock Origin 高级模式之间的区别](Differences.md)
 - [临时规则](Temp.md)

@@ -13,7 +13,7 @@ Here is a summation of all relevant knowledge you should have learned before usi
 - [Blacklist Mode](Blacklist-Mode.md)
 - [Contributing Guidelines](Guidelines.md)
 - [Cookies Control](Cookies-Control.md)
-- [Differeces Between uMatrix and uBlock Origin Advanced Mode](Differences.md)
+- [Differeces Between uMatrix and uBlock Origin Hard Mode](Differences.md)
 - [Temporary Rules](Temp.md)
 - Third Party Iframe
     - [Google Service](Google-Services.md)
@@ -32,14 +32,14 @@ Here is a summation of all relevant knowledge you should have learned before usi
 2. It this enough (any other privacy tools recommended)?
 
     It is definitely not enough, some third-party elements contain both normal site facilities and also tracking scripts. Here are some others helpful:
-    - [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker)
-    - [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete)
-    - [Decentraleyes](https://decentraleyes.org/)
+    - [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker): worry-free privacy
+    - [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete): think twice before enabling `active mode`
+    - [Decentraleyes](https://decentraleyes.org/): highly recommended
     - [Don't Fuck With Paste](https://addons.mozilla.org/firefox/addon/don-t-fuck-with-paste/): this may break certain amount of sites
     - [HTTPS Everywhere](https://www.eff.org/https-everywhere): take a trunk of RAM & most probably severe performance issues
     - [Neat URL](http://hugsmile.eu/)
     - [NoProfile](https://addons.mozilla.org/firefox/addon/noprofile/): this may cause some sites behave strange, especially where there are many mouse-hover-based elements
-    - [uBlock Origin](https://github.com/gorhill/uBlock)
+    - [uBlock Origin](https://github.com/gorhill/uBlock): a perfect combination
     - [URL Tooltip WE](https://addons.mozilla.org/firefox/addon/url-tooltip-we/)
 
     Plus, if you re using [Mozilla Firefox](https://www.mozilla.org/firefox/all/), despite that battery API is removed to avoid being tracked, it is also suggested to navigation to:
@@ -72,13 +72,13 @@ Here is a summation of all relevant knowledge you should have learned before usi
 
 ## Shubbanuffa - BEFORE USING
 
-- I can only ensure most site functions are workable. Use at your own risk.
-- If you are expecting my investigation on any specific site, pls open a new issue at [corresponding place](https://github.com/uMatrix-Rules):
+1. I can only ensure most site functions are workable. Use at your own risk.
+2. If you are expecting my investigation on any specific site, pls open a new issue at [corresponding place](https://github.com/uMatrix-Rules):
     - give a specific URL
     - point out your uMatrix version & broswer version
     - attach your own rules and, if differ from default, your preferences
     - If you are submitting issue on any site that requires an account (cookies), a valid account mailed to the [org email address](lolipopplus@protonmail.com) may be necessary. By doing that you are trusting [org owner](https://github.com/Rictusempra) enough.
-- Here are service inavailablity things that won't be fixed:
+3. Here are service inavailablity things that won't be fixed:
     -  from contents blocked by any built-in subscriptions
     -  caused by certain preferences outside of rule sets or of uMatrix itself
     -  if a site:

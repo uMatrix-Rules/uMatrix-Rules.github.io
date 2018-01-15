@@ -11,7 +11,7 @@
 - [黑名单模式](Blacklist-Mode.md)
 - [贡献指引](Guidelines.md)
 - [Cookies 控制](Cookies-Control.md)
-- [uMatrix 与 uBlock Origin 高级模式之间的区别](Differences.md)
+- [uMatrix 与 uBlock Origin 困难模式之间的区别](Differences.md)
 - [临时规则](Temp.md)
 - 第三方框架
     - [Google 服务](Google-Services.md)
@@ -30,14 +30,14 @@
 2. 仅使用 uMatrix 就足够了吗（还有没有推荐的隐私增强工具）？
 
     答案是否定的。有些第三方元素同时包含正常站点功能元素与追踪脚本。以下为可能有帮助的例子：
-    - [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker)
-    - [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete)
-    - [Decentraleyes](https://decentraleyes.org/)
+    - [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker)：无忧隐私防护
+    - [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete)：谨慎开启`主动模式`
+    - [Decentraleyes](https://decentraleyes.org/)：强烈推荐
     - [Don't Fuck With Paste](https://addons.mozilla.org/firefox/addon/don-t-fuck-with-paste/)：可能破坏一些特定的页面
     - [HTTPS Everywhere](https://www.eff.org/https-everywhere)：占用大量 RAM 并且很有可能有严重性能问题
     - [Neat URL](http://hugsmile.eu/)
     - [NoProfile](https://addons.mozilla.org/firefox/addon/noprofile/)：某些站点可能表现异常，尤其是包含大量鼠标悬浮特效时
-    - [uBlock Origin](https://github.com/gorhill/uBlock)
+    - [uBlock Origin](https://github.com/gorhill/uBlock)：完美组合
     - [URL Tooltip WE](https://addons.mozilla.org/firefox/addon/url-tooltip-we/)
 
     此外，如果你使用 [Mozilla Firefox](https://www.mozilla.org/firefox/all/)，除 battery API 已移除以保护隐私，同时建议转到：
@@ -52,17 +52,17 @@
 
 3. 如何捐助？
 
-    [组织所有人](https://github.com/Rictusempra) 无意接受任何捐助。您可以询问[其他成员](https://github.com/orgs/uMatrix-Rules/people)是否有意愿。
+    [组织所有人](https://github.com/Rictusempra)无意接受任何捐助。您可以询问[其他成员](https://github.com/orgs/uMatrix-Rules/people)是否有意愿。
 
 4. 本站有些奇怪的词是什么意思？
 
-    它们是一个叫 `LOL` 的 MMORPG 中的一个叫纳尔的角色台词。你可以[在这里](http://leagueoflegends.wikia.com/wiki/Gnar/Quotes)找到全部它的台词。
+    它们是一个叫 `LOL` 的 MMORPG 中的一个叫`纳尔`的角色台词。你可以[在这里](http://leagueoflegends.wikia.com/wiki/Gnar/Quotes)找到全部它的台词。
 
 ## Gnar gada! - 使用方法
 
 1. 首选选择适合自己的规则类别：[domain](https://github.com/uMatrix-Rules/uMatrix-Rules-Domain) 或者 [site](https://github.com/uMatrix-Rules/uMatrix-Rules-Site)。建议选择后者。将 `rules.text` 文件保存到本地或者直接在浏览器中打开并复制全部内容。
 2. 打开 uMatrix 控制台
-3. 转到 `My rules` 选项卡
+3. 转到 `自定义规则` 选项卡
 4. 导入规则：
    - 点击 `从文件导入...` 并选择你保存的文件，或者；
    - 点击 `编辑` 并从剪贴板粘贴
@@ -70,13 +70,13 @@
 
 ## Shubbanuffa - 使用须知
 
-- 仅保证大部分站点功能正常。使用须自负风险。
-- 当需要提交站点异常时，请在[对应的 repository](https://github.com/uMatrix-Rules) 新建一个 issue：
+1. 仅保证大部分站点功能正常。使用须自负风险。
+2. 当需要提交站点异常时，请在[对应的 repository](https://github.com/uMatrix-Rules) 新建一个 issue：
     - 给出具体的 URL
     - 附注 uMatrix 与浏览器 version
     - 附注你自行创建的规则。如已修改默认设置，须一并指出
     - 当提交的网站需要一个账号的时候，你必须首先将一个可用的账号发送到[组织邮箱](lolipopplus@protonmail.com)。发送即视为信任[组织所有人](https://github.com/Rictusempra)。
-- 当遇到以下情况导致的站点异常时不会予以处理：
+3. 当遇到以下情况导致的站点异常时不会予以处理：
     -  站点功能内容被内置订阅拦截
     -  站点功能异常来由并非 uMatrix 规则或者 uMatrix 自身设置
     -  当该站点符合以下任意情况之一时：

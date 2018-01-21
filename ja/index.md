@@ -30,13 +30,17 @@
 2.　uMatrixだけで十分ですが？他のプライバシー増強ツールありますが？
 
     勿論uMatrixだけでは不十分です。一部のサードパーティ要素には、通常のサイト機能とトラッキングスクリプトの両方が含まれています。これらのツールが役に立つかもしれない：
+    
     - [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker)：
-簡単なプロテクターツール    - [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete)：`アクティブモード`には慎重に
+簡単なプロテクターツール    
+    - [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete)：`アクティブモード`には慎重に
     - [Decentraleyes](https://decentraleyes.org/)：おすすめ
-です！    - [Don't Fuck With Paste](https://addons.mozilla.org/firefox/addon/don-t-fuck-with-paste/)：特定のウェブサイトの機能を破壊する可能性あり
+です！    
+    - [Don't Fuck With Paste](https://addons.mozilla.org/firefox/addon/don-t-fuck-with-paste/)：特定のウェブサイトの機能を破壊する可能性あり
     - [HTTPS Everywhere](https://www.eff.org/https-everywhere)：RAMを大量使用の上に、機能に重大な問題があります。
     - [Neat URL](http://hugsmile.eu/)
-    - [NoProfile](https://addons.mozilla.org/firefox/addon/noprofile/)：一部のサイト、特にマウスオーバー効果が非常に多い場合には動作が異常になることがあります。   - [uBlock Origin](https://github.com/gorhill/uBlock)：おすすめのコンビネーション
+    - [NoProfile](https://addons.mozilla.org/firefox/addon/noprofile/)：一部のサイト、特にマウスオーバー効果が非常に多い場合には動作が異常になることがあります。   
+    - [uBlock Origin](https://github.com/gorhill/uBlock)：おすすめのコンビネーション
     - [URL Tooltip WE](https://addons.mozilla.org/firefox/addon/url-tooltip-we/)
 
     もし[Mozilla Firefox](https://www.mozilla.org/firefox/all/)を使用した場合、バッテリーAPIが追跡されるのを避けるために削除されているにもかかわらず、これらの指示に従うことがおすすめです：

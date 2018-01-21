@@ -31,11 +31,9 @@
 
     勿論uMatrixだけでは不十分です。一部のサードパーティ要素には、通常のサイト機能とトラッキングスクリプトの両方が含まれています。これらのツールが役に立つかもしれない：
     
-    - [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker)：
-簡単なプロテクターツール    
+    - [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker)：簡単なプロテクターツール    
     - [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete)：`アクティブモード`には慎重に
-    - [Decentraleyes](https://decentraleyes.org/)：おすすめ
-です！    
+    - [Decentraleyes](https://decentraleyes.org/)：おすすめです！    
     - [Don't Fuck With Paste](https://addons.mozilla.org/firefox/addon/don-t-fuck-with-paste/)：特定のウェブサイトの機能を破壊する可能性あり
     - [HTTPS Everywhere](https://www.eff.org/https-everywhere)：RAMを大量使用の上に、機能に重大な問題があります。
     - [Neat URL](http://hugsmile.eu/)

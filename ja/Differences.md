@@ -1,6 +1,6 @@
-﻿## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava---toc)あなたが疑問があるかもしれません：なぜuMatrixが必要でしょう、私は既にuBlock Originの
-
-コンソールで、高度なユーザーモードを選択し、手動で永久ルール `* * 3p block` 、`* * 3p-script block` 、`* * 3p-frame block` を増加しましたよ？これらのルールによって、あなたがuBlock Originの[ハードモード](https://github.com/gorhill/uBlock/wiki/Blocking-mode:-hard-mode)を起動しました。
+﻿## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava---toc)
+ 
+あなたが疑問があるかもしれません：なぜuMatrixが必要でしょう、私は既にuBlock Originのコンソールで、高度なユーザーモードを選択し、手動で永久ルール `* * 3p block` 、`* * 3p-script block` 、`* * 3p-frame block` を増加しましたよ？これらのルールによって、あなたがuBlock Originの[ハードモード](https://github.com/gorhill/uBlock/wiki/Blocking-mode:-hard-mode)を起動しました。
 
 一般に、uMatrixは`要素制御`に重点を置いており、uBlock Originは`ドメイン制御`と`精細要求フィルタリング`機能をよりよく処理します。具体的には：
 

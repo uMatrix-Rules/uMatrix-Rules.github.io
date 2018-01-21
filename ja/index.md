@@ -13,11 +13,10 @@
 - [クッキーコントロール](Cookies-Control.md)
 - [uMatrix と uBlock Origin の区別](Differences.md)
 - [臨時規則](Temp.md)
-- 
-サードパーティフレームワーク    - [Googleサービス](Google-Services.md)
+- サードパーティフレームワーク    
+    - [Googleサービス](Google-Services.md)
     - [ビデオIframe（例）](Video-Iframe-Examples.md)
-    - [他の
-サードパーティフレームワーク](Others.md)
+    - [他のサードパーティフレームワーク](Others.md)
 - [uMatrix ボタン功能の説明](Visual.md)
 
 ---

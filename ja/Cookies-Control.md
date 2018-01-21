@@ -1,7 +1,6 @@
 ﻿## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava---toc)
 
-[uMatrix wiki](https://github.com/gorhill/uMatrix/wiki/Cookies)に言ったとおり、uMatrixはすべてのcookiesの`遺留を阻止すること`が出来ます。これらの指示に従うことをおすすめします
-：
+[uMatrix wiki](https://github.com/gorhill/uMatrix/wiki/Cookies)に言ったとおり、uMatrixはすべてのcookiesの`遺留を阻止すること`が出来ます。これらの指示に従うことをおすすめします：
 
 ルール追加 `* * cookie block`，サイトのすべてのcookiesを阻止する。この後マニュアルで特定のサイトにcookiesを起用することが必要とされます。例：
 

@@ -1,5 +1,7 @@
 ﻿## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava---toc)
-### uMatrixパネルの要素を説明します![](../assets/power.png) このサイトの臨時スイッチ（新規臨時規則 `matrix-off: example.com true` ）。下付き数字はドメイン名のカウントです。
+### uMatrixパネルの要素を説明します
+
+![](../assets/power.png) このサイトの臨時スイッチ（新規臨時規則 `matrix-off: example.com true` ）。下付き数字はドメイン名のカウントです。
 
 ![](../assets/dots.png) プライバシーツールのスイッチ。グローバル設定はuMatrixコンソールの設定タブにあります。下付き数字はこのサイトでアクティブの工具量。
 

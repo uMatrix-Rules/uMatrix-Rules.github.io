@@ -1,4 +1,6 @@
-﻿## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava---toc)これらの方法でこのプロジェクトに貢献することができます：
+﻿## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava---toc)
+ 
+これらの方法でこのプロジェクトに貢献することができます：
 
 1. forkとPRの提出すること。
     - アルファベットに従ってルールをアレンジしてください。

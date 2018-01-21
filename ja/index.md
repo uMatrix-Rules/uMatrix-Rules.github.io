@@ -70,10 +70,11 @@
 
 ## Shubbanuffa - 注意事項　
 1. 一部のウェブサイトの機能が異常することがあります。自分責任で使用してください。
-2.もし私たちに特定のサイトの問題を調査したいときは、[ここに](https://github.com/uMatrix-Rules)新しいissueを開いてください。：
+2. もし私たちに特定のサイトの問題を調査したいときは、[ここに](https://github.com/uMatrix-Rules)新しいissueを開いてください：
     - 具体的なURLを提供してください。
     - uMatrixとウェブブラウザーのversionも提供してください。
-    - 自分が作ったルールとすべでのデフォルト設定に関する変更を提供してください。    - もしそのウェブサイトにアカウントが必要なばい、まずは使用することができるのアカウントを一つ[ここに](lolipopplus@protonmail.com)提出してください。それを送信されたばい、あなたがすべての[開発者](https://github.com/Rictusempra)に信頼することとします。
+    - 自分が作ったルールとすべでのデフォルト設定に関する変更を提供してください。    
+    - もしそのウェブサイトにアカウントが必要なばい、まずは使用することができるのアカウントを一つ[ここに](lolipopplus@protonmail.com)提出してください。それを送信されたばい、あなたがすべての[開発者](https://github.com/Rictusempra)に信頼することとします。
 3. これらの状況に起こる異常事態には処理しません：
     -  サイト機能のコンテンツが組み込みサブスクリプションによってブロックされた
     -  サイト機能異常の原因はuMatrixルールの影響ではない
@@ -83,7 +84,7 @@
         -  危険なサイトとして報告された
         -  公共サービスでホストされていない個人的なブログサイト
     -  他の拡張機能、例えばAdobe Flash、に関する問題
-    - 他にuMatrix [README](https://github.com/gorhill/uMatrix/blob/master/README.md)あるいは[wiki](https://github.com/gorhill/uMatrix/wiki)に提示された問題
+    -  他にuMatrix [README](https://github.com/gorhill/uMatrix/blob/master/README.md)あるいは[wiki](https://github.com/gorhill/uMatrix/wiki)に提示された問題
 
 ---
 

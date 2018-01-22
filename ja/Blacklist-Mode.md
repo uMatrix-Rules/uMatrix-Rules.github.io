@@ -1,4 +1,4 @@
-﻿## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava---toc)
+## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava---toc)
 
 uMatrix はブラックリストモードが備えています。つまり、ブラックリストにあるもの以外のすべでの要素を許可することができる。ブラックリストを採用するにはルールの `* * * block` を `* * * allow`に変更すること。
 

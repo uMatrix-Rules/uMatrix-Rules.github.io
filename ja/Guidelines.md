@@ -1,4 +1,4 @@
-﻿## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava---toc)
+## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava---toc)
  
 これらの方法でこのプロジェクトに貢献することができます：
 

@@ -1,11 +1,11 @@
 ## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava---toc)
 
-#### Shugi shugi shugi - �Վ��K��
+#### Shugi shugi shugi - 臨時規則
 
-�����ɂ��郋�[���͗Վ��K���ɂ��邱�Ƃ������߂ł��B�u���E�U�[�������Ƃ��A�����̃��[���͍폜����AuMatrix ���ۑ����܂���B
-���̗��R�͂����̋K���͓���̃T�C�g�@�\�𕜋�����Ɠ����Ƀg���b�L���O�@�\�𕜋����܂��A�����Ă��̋K���Ȃ��Ăقڂ��ׂẴT�C�g�@�\������ɉ^�]���邱�Ƃ��ł���B
+ここにあるルールは臨時規則にすることがお勧めです。ブラウザーが閉じたとき、これらのルールは削除され、uMatrix が保存しません。
+その理由はこれらの規則は特定のサイト機能を復旧すると同時にトラッキング機能を復旧します、そしてこの規則なしてほぼすべてのサイト機能が正常に運転することもできる。
 
-�q���g�F�R�s�[�y�C�X�g����K�v������܂���CuMatrix �c�[���o�[���J���A�Ή��̃u���b�N��I�����邱�Ƃ��ł��܂��B
+ヒント：コピーペイストする必要がありません，uMatrix ツールバーを開き、対応のブロックを選択することができます。
 
 #### Baidu
 
@@ -22,10 +22,10 @@
 
 #### Youku
 
-�K���e�L�X�g�̃��[���̓T�C�g�@�\���N�p���邱�Ƃ��ł���B�������������s�����ꍇ�AuMatrix���ꎞ�I�ɋ֗p�C�����I�Ƀ��t���b�V���i�L���b�V�����X�L�b�v�j���Ă����肪�������邱�Ƃ��ł���B�����s���B
+規則テキストのルールはサイト機能を起用することができる。もし復旧が失敗した場合、uMatrixを一時的に禁用，強制的にリフレッシュ（キャッシュをスキップ）してから問題が解決することができる。原因不明。
 
 
 
-### Reeshoova! - �g�p�����_��<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
-�e�L�X�g�� <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>
-�̉��ŗ��p�\�ł��B�ǉ��̏������K�p�����ꍇ������܂��B
+### Reeshoova! - 使用許諾契約<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+テキストは <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>
+の下で利用可能です。追加の条件が適用される場合があります。

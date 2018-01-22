@@ -1,4 +1,4 @@
-﻿## Vrooboo! Wabbo!!
+## Vrooboo! Wabbo!!
 
 ここはuMatrixの規則と使用説明の詰め場所です。
 

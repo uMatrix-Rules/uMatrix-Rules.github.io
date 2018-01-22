@@ -1,4 +1,4 @@
-﻿## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava---toc)
+## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava---toc)
 
 [uMatrix wiki](https://github.com/gorhill/uMatrix/wiki/Cookies)に言ったとおり、uMatrixはすべてのcookiesの`遺留を阻止すること`が出来ます。これらの指示に従うことをおすすめします：
 

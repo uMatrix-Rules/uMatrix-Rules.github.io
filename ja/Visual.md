@@ -1,4 +1,4 @@
-﻿## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava---toc)
+## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava---toc)
 ### uMatrixパネルの要素を説明します
 
 ![](../assets/power.png) このサイトの臨時スイッチ（新規臨時規則 `matrix-off: example.com true` ）。下付き数字はドメイン名のカウントです。

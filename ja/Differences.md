@@ -1,4 +1,4 @@
-﻿## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava---toc)
+## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava---toc)
  
 あなたが疑問があるかもしれません：なぜuMatrixが必要でしょう、私は既にuBlock Originのコンソールで、高度なユーザーモードを選択し、手動で永久ルール `* * 3p block` 、`* * 3p-script block` 、`* * 3p-frame block` を増加しましたよ？これらのルールによって、あなたがuBlock Originの[ハードモード](https://github.com/gorhill/uBlock/wiki/Blocking-mode:-hard-mode)を起動しました。
 

@@ -50,7 +50,7 @@ Here is a summation of all relevant knowledge you should have learned before usi
         - at `Permissions` section, check `Prevent accessibility services from accessing your browser`.
         - at `Security` section, **uncheck** `Block dangerous and deceptive content`: this uses Google Safe Browsing API and tracks your everywhere. Use pro anti-virus programs instead if necessary.
     - `about:preferences#search`
-        - at `Default Search Engine` section, **uncheck** `Show search suggestions in address bar results`: the search engine provider will collect info if this is checked. If you rely on the suggestions, use engines that don't record things instead, e.g. DuckDuckGo.
+        - at `Default Search Engine` section, **uncheck** `Show search suggestions in address bar results`: the search engine provider will collect everything you input in the address bar if this is checked. If you rely on the suggestions, use engines that don't record things instead, e.g. DuckDuckGo.
 
 3. How can I donate?
 

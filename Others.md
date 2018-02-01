@@ -1,5 +1,12 @@
 ## [Vrooboo! Wabbo!!](https://umatrix-rules.github.io/#ovagarava---toc)
 
+#### Disqus
+
+    example.com disqus.com frame allow
+    example.com disqus.com script allow
+    example.com disqus.com xhr allow
+    example.com disquscdn.com script allow
+
 #### QQ Captcha
 
 

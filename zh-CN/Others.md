@@ -16,6 +16,12 @@
     example.com captcha.guard.qcloud.com xhr allow
     example.com captcha.guard.qcloud.com frame allow
 
+#### Algolia
+
+
+    example.com algolia.net script allow
+    example.com algolia.net xhr allow
+
 
 ### Reeshoova! - 许可协议
 

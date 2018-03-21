@@ -62,13 +62,10 @@ Here is a summation of all relevant knowledge you should have learned before usi
 
 ## Gnar gada! - USAGE
 
-1. First, choose a rule level you would prefer, [domain](https://github.com/uMatrix-Rules/uMatrix-Rules-Domain) or [site](https://github.com/uMatrix-Rules/uMatrix-Rules-Site).  It is recommended to choose the latter. Save the `rules.txt` into any local directory, or directly open it in your browser & copy all contents
+1. First, choose a rule level you would prefer, [domain](https://github.com/uMatrix-Rules/uMatrix-Rules-Domain) or [site](https://github.com/uMatrix-Rules/uMatrix-Rules-Site).  It is recommended to choose the latter.
 2. open your uMatrix dashboard
-3. navigate to `My rules` tab
-4. import the rules:
-   - click `Import from file...` and pick the file you just downloaded or;
-   - click `Edit` and paste them from clipboard
-5. edit as your like and/or click `Save`, and then `Commit`
+3. navigate to `Assets` tab
+4. import the rules via ticking the `Import` box and paste the URL.
 
 ## Shubbanuffa - BEFORE USING
 

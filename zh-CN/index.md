@@ -60,13 +60,11 @@
 
 ## Gnar gada! - 使用方法
 
-1. 首选选择适合自己的规则类别：[domain](https://github.com/uMatrix-Rules/uMatrix-Rules-Domain) 或者 [site](https://github.com/uMatrix-Rules/uMatrix-Rules-Site)。建议选择后者。将 `rules.text` 文件保存到本地或者直接在浏览器中打开并复制全部内容。
+1. 首选选择适合自己的规则类别：[domain](https://github.com/uMatrix-Rules/uMatrix-Rules-Domain) 或者 [site](https://github.com/uMatrix-Rules/uMatrix-Rules-Site)。建议选择后者。
 2. 打开 uMatrix 控制台
-3. 转到 `自定义规则` 选项卡
-4. 导入规则：
-   - 点击 `从文件导入...` 并选择你保存的文件，或者；
-   - 点击 `编辑` 并从剪贴板粘贴
-5. 按需求编辑或点击 `保存`，然后点击 `提交`
+3. 转到 `Assets` 选项卡
+4. 勾选 `导入` 复选框，粘贴 URL 以导入规则
+
 
 ## Shubbanuffa - 使用须知
 
